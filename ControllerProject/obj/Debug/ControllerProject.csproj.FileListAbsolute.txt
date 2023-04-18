@@ -1,0 +1,11 @@
+C:\Users\Amanda\Desktop\MUV\ControllerProject\bin\Debug\ControllerProject.dll
+C:\Users\Amanda\Desktop\MUV\ControllerProject\bin\Debug\ControllerProject.pdb
+C:\Users\Amanda\Desktop\MUV\ControllerProject\bin\Debug\ModelProject.dll
+C:\Users\Amanda\Desktop\MUV\ControllerProject\bin\Debug\PersistenceProject.dll
+C:\Users\Amanda\Desktop\MUV\ControllerProject\bin\Debug\ModelProject.pdb
+C:\Users\Amanda\Desktop\MUV\ControllerProject\bin\Debug\PersistenceProject.pdb
+C:\Users\Amanda\Desktop\MUV\ControllerProject\obj\Debug\ControllerProject.csproj.AssemblyReference.cache
+C:\Users\Amanda\Desktop\MUV\ControllerProject\obj\Debug\ControllerProject.csproj.CoreCompileInputs.cache
+C:\Users\Amanda\Desktop\MUV\ControllerProject\obj\Debug\ControllerProject.csproj.CopyComplete
+C:\Users\Amanda\Desktop\MUV\ControllerProject\obj\Debug\ControllerProject.dll
+C:\Users\Amanda\Desktop\MUV\ControllerProject\obj\Debug\ControllerProject.pdb

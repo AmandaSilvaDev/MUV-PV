@@ -1,0 +1,9 @@
+C:\Users\Amanda\Desktop\MUV\PersistenceProject\bin\Debug\PersistenceProject.dll
+C:\Users\Amanda\Desktop\MUV\PersistenceProject\bin\Debug\PersistenceProject.pdb
+C:\Users\Amanda\Desktop\MUV\PersistenceProject\bin\Debug\ModelProject.dll
+C:\Users\Amanda\Desktop\MUV\PersistenceProject\bin\Debug\ModelProject.pdb
+C:\Users\Amanda\Desktop\MUV\PersistenceProject\obj\Debug\PersistenceProject.csproj.AssemblyReference.cache
+C:\Users\Amanda\Desktop\MUV\PersistenceProject\obj\Debug\PersistenceProject.csproj.CoreCompileInputs.cache
+C:\Users\Amanda\Desktop\MUV\PersistenceProject\obj\Debug\PersistenceProject.csproj.CopyComplete
+C:\Users\Amanda\Desktop\MUV\PersistenceProject\obj\Debug\PersistenceProject.dll
+C:\Users\Amanda\Desktop\MUV\PersistenceProject\obj\Debug\PersistenceProject.pdb

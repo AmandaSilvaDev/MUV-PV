@@ -1,0 +1,6 @@
+C:\Users\Amanda\Desktop\MUV\ModelProject\bin\Debug\ModelProject.dll
+C:\Users\Amanda\Desktop\MUV\ModelProject\bin\Debug\ModelProject.pdb
+C:\Users\Amanda\Desktop\MUV\ModelProject\obj\Debug\ModelProject.csproj.AssemblyReference.cache
+C:\Users\Amanda\Desktop\MUV\ModelProject\obj\Debug\ModelProject.csproj.CoreCompileInputs.cache
+C:\Users\Amanda\Desktop\MUV\ModelProject\obj\Debug\ModelProject.dll
+C:\Users\Amanda\Desktop\MUV\ModelProject\obj\Debug\ModelProject.pdb

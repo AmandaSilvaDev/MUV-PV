@@ -68,8 +68,7 @@ namespace PersistenceProject
             return produto;
         }
 
-        public NotaEntrada InsertNotaEntrada
-            (NotaEntrada notaEntrada)
+        public NotaEntrada InsertNotaEntrada(NotaEntrada notaEntrada)
         {
             this.notasEntrada.Add(notaEntrada);
             return notaEntrada;
@@ -86,12 +85,21 @@ namespace PersistenceProject
             return this.notasEntrada;
         }
 
-        public NotaEntrada UpdateNotaEntrada
-            (NotaEntrada notaEntrada)
+
+        public NotaEntrada UpdateNotaEntrada(NotaEntrada notaEntrada)
         {
             this.notasEntrada[this.notasEntrada.
-                IndexOf(notaEntrada)] = notaEntrada;
+            IndexOf(notaEntrada)] = notaEntrada;
             return notaEntrada;
         }
+        public NotaEntrada GetNotaEntradaById(Guid Id)
+        {
+            var notaEntrada = this.notasEntrada[
+            this.notasEntrada.IndexOf(
+            new NotaEntrada() { Id = Id }
+            )];
+            return notaEntrada;
+        }
+
     }
 }
